@@ -1,0 +1,4 @@
+[allowlist]
+	description = "This is another config to allow whitelist false positive"
+	regexes = ['''EXAMPL*''']
+
